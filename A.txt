@@ -1,0 +1,16 @@
+
+=== Parte del loggin
+
+  loggin = ricky
+  password = 123
+
+=== Parte de la presentacion
+
+  Hola usuario, bienvenido a nuestro programa
+
+=== Contenido 
+
+  Este post trata de los principios SOLID
+
+  S : Single responsability principle
+  I : Interface segregation principle
